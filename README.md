@@ -28,6 +28,6 @@ FILES
 
 2. PDF File-
 
-3. Picture-
+3. Picture- https://github.com/Faustine-Munishi/Business-Analysis/blob/main/pic.jpg
 
 
