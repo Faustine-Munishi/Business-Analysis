@@ -1,17 +1,17 @@
 PROBLEM STATEMENTS
 
 In this project I monitor sales performance based on the following KPIs;
-	Year to Date Sales (YTD)/Revenue
-	Quarter to Date Sales (QTD)/Revenue
-	Year To Date product sold
-	Year to date Reviews
+1	Year to Date Sales (YTD)/Revenue
+2  Quarter to Date Sales (QTD)/Revenue
+3	Year To Date product sold
+4	Year to date Reviews
 _____________________________________________________________________________________________________________________________
 CHARTS
 
-	Sales Trend by Month
-	Sales Trend by week
-	Top 5 YTD products sold
-	Top 5 YTD reviewed Products
+1	Sales Trend by Month
+2	Sales Trend by week
+3	Top 5 YTD products sold
+4	Top 5 YTD reviewed Products
 ______________________________________________________________________________________________________________________________
 Tools Used
 
@@ -23,3 +23,11 @@ Tools Used
 •	Charts
 •	Time Intelligence functions
 ____________________________________________________________________________________________________________________________
+FILES
+1. PowerBI File- https://github.com/Faustine-Munishi/Business-Analysis/blob/main/AMAZON%20SALES.pbix
+
+2. PDF File-
+
+3. Picture-
+
+
