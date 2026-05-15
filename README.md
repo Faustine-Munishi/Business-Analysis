@@ -26,7 +26,7 @@ ________________________________________________________________________________
 FILES
 1. PowerBI File- https://github.com/Faustine-Munishi/Business-Analysis/blob/main/AMAZON%20SALES.pbix
 
-2. PDF File-
+2. PDF File- https://github.com/Faustine-Munishi/Business-Analysis/blob/main/Amazon.pdf
 
 3. Picture- https://github.com/Faustine-Munishi/Business-Analysis/blob/main/pic.jpg
 
